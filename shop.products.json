@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "6599083fc226448fdf41eeb9"
+  },
+  "product_id": 1,
+  "handle": "product_handle_1",
+  "description": "This is the description for product 1",
+  "category_id": 101,
+  "inventory_count": 50
+},
+{
+  "_id": {
+    "$oid": "6599086dc226448fdf41eebb"
+  },
+  "product_id": 2,
+  "handle": "product_handle_2",
+  "description": "This is the description for product 2",
+  "category_id": 102,
+  "inventory_count": 75
+},
+{
+  "_id": {
+    "$oid": "65990888c226448fdf41eebd"
+  },
+  "product_id": 3,
+  "handle": "product_handle_3",
+  "description": "This is the description for product 3",
+  "category_id": 103,
+  "inventory_count": 30
+},
+{
+  "_id": {
+    "$oid": "65990893c226448fdf41eebf"
+  },
+  "product_id": 4,
+  "handle": "product_handle_4",
+  "description": "This is the description for product 4",
+  "category_id": 104,
+  "inventory_count": 100
+}]

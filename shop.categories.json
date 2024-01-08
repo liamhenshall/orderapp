@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "65990991c226448fdf41eec5"
+  },
+  "category_id": 101,
+  "name": "Electronics"
+},
+{
+  "_id": {
+    "$oid": "659909a0c226448fdf41eec7"
+  },
+  "category_id": 102,
+  "name": "Clothing"
+},
+{
+  "_id": {
+    "$oid": "659909abc226448fdf41eec9"
+  },
+  "category_id": 103,
+  "name": "Home and Kitchen"
+}]
